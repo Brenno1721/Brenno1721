@@ -13,7 +13,7 @@
 
 🌍 I'm based Indaiatuba, São Paulo, Brazil <br/>
 🧠 I'm learning Python, Javascript, CSS, and HTML <br/>
-⚡ I am looking to improve my professional life in programming, using github as a means of communication between other programmers and growing my networking, I find it very easy to learn new things and improve them
+⚡ I'm looking to improve my professional life in programming, using github as a means of communication between other programmers and growing my networking, I find it very easy to learn new things and improve them
 
 ![Brenno Alencar GitHub stats](https://github-readme-stats.vercel.app/api?username=Brenno1721&show_icons=true&theme=radical)
 
