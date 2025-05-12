@@ -1,5 +1,5 @@
 
-### Hello! I'm Brenno Alencar 😁
+### Hello! I'm Brenno Alencar 
 
  I am a programming student, always looking to learn new languages ​​and delve deeper into the world of technology. I have a great interest in cybersecurity and I am expanding my knowledge in several areas related to the technological field.🤖👨‍💻
 
