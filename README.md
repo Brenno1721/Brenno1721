@@ -11,9 +11,11 @@
 
 
 
-🌍 I'm based Indaiatuba, São Paulo, Brazil <br/>
-🧠 I'm learning Python, Javascript, CSS, and HTML <br/>
-⚡ I'm looking to improve my professional life in programming, using github as a means of communication between other programmers and growing my networking, I find it very easy to learn new things and improve them
+👨‍💻 Software Engineering Student | Passionate about Technology
+💻 Knowledge of HTML, CSS, JavaScript (Node.js and React), Python, SQL (DML)
+🛡️ Exploring the world of Cybersecurity
+🚀 Always looking for new learning and challenges to grow as a developer
+📚 Currently studying Software Engineering and Cybersecurity
 
 ![Brenno Alencar GitHub stats](https://github-readme-stats.vercel.app/api?username=Brenno1721&show_icons=true&theme=radical)
 
