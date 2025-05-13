@@ -11,11 +11,11 @@
 
 
 
-👨‍💻 Software Engineering Student | Passionate about Technology
-💻 Knowledge of HTML, CSS, JavaScript (Node.js and React), Python, SQL (DML)
-🛡️ Exploring the world of Cybersecurity
-🚀 Always looking for new learning and challenges to grow as a developer
-📚 Currently studying Software Engineering and Cybersecurity
+👨‍💻 Software Engineering Student | Passionate about Technology <br>
+💻 Knowledge of HTML, CSS, JavaScript (Node.js and React), Python, SQL (DML) <br>
+🛡️ Exploring the world of Cybersecurity <br>
+🚀 Always looking for new learning and challenges to grow as a developer <br>
+📚 Currently studying Software Engineering and Cybersecurity <br>
 
 ![Brenno Alencar GitHub stats](https://github-readme-stats.vercel.app/api?username=Brenno1721&show_icons=true&theme=radical)
 
