@@ -17,7 +17,27 @@
 🚀 Always looking for new learning and challenges to grow as a developer <br>
 📚 Currently studying Software Engineering and Cybersecurity <br>
 
-![Brenno Alencar GitHub stats](https://github-readme-stats.vercel.app/api?username=Brenno1721&show_icons=true&theme=radical)
+🎯 What I do best:<br>
+
+Developing dashboards and admin panels<br>
+
+Creating and customizing UI/UX<br>
+
+Integrating charts and dynamic elements<br>
+
+Fine-tuning responsive layouts and design<br>
+
+Optimizing features for better usability<br>
+
+⚡ Technologies & Tools:<br>
+
+Frontend: HTML5, CSS3, JavaScript<br>
+
+UI/UX: TailwindCSS, Bootstrap, Font Awesome<br>
+
+Charts: Chart.js, Recharts, ApexCharts<br>
+
+Others: Git, VS Code<br>
 
 
 ### Languages ​​I use and study 📚
