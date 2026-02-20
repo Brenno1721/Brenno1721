@@ -1,8 +1,5 @@
 # Olá! Eu sou Brenno Alencar 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Brenno%20Alencar&fontSize=70&animation=fadeIn" alt="Banner do Brenno" />
-</p>
 
 Sou um desenvolvedor e estudante de Engenharia de Software apaixonado por tecnologia. Atualmente, foco em desenvolvimento Full Stack, infraestrutura de servidores e Cybersecurity, unindo o aprendizado acadêmico com a prática em projetos reais.
 
@@ -57,10 +54,6 @@ Sou um desenvolvedor e estudante de Engenharia de Software apaixonado por tecnol
 
 
 # Hello! I'm Brenno Alencar 👋
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Brenno%20Alencar&fontSize=70&animation=fadeIn" alt="Brenno's Banner" />
-</p>
 
 I am a Software Engineering student and developer passionate about technology. Currently, I focus on Full Stack development, server infrastructure, and Cybersecurity, bridging academic knowledge with hands-on experience in real-world projects.
 
