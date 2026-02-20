@@ -24,12 +24,7 @@ Sou um desenvolvedor e estudante de Engenharia de Software apaixonado por tecnol
 - 🛡️ **Cybersecurity Enthusiast**: Explorando defesa cibernética e análise de vulnerabilidades.
 - 💻 **Hardware Geek**: Entusiasta de PC building e otimização de performance.
 
-## 📊 Estatísticas do GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brenno1721&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenno1721&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
-
+  
 ## 🛠️ Tecnologias & Ferramentas:
 - **Frontend:** HTML5, CSS3, JavaScript (React, Next.js)
 - **Backend:** Node.js, Python, SQL (DML), Lua (FiveM Scripting)
@@ -86,12 +81,6 @@ I am a Software Engineering student and developer passionate about technology. C
 - 🎮 **FiveM Developer**: Creating scripts (Lua/JS) and managing Linux servers.
 - 🛡️ **Cybersecurity Enthusiast**: Exploring cyber defense and vulnerability analysis.
 - 💻 **Hardware Geek**: Enthusiast for PC building and performance optimization.
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brenno1721&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenno1721&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
 
 ## 🛠️ Technologies & Tools:
 - **Frontend:** HTML5, CSS3, JavaScript (React, Next.js)
